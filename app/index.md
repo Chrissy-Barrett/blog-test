@@ -4,8 +4,6 @@ layout: main
 includeInBreadcrumbs: true
 title: Sustainable service principles
 ---
-<div class="govuk-grid-row">
-  <div class="govuk-grid-column-full">
 
 Version 1.0 updated 20 February 2025
 
@@ -66,6 +64,3 @@ The principles have been developed through a collaborative and open process in U
 [Read more](#)
 
 * * *
-
-</div>
-</div>
