@@ -1,7 +1,6 @@
 ---
-homepage: false
+homepage: true
 layout: main
-includeInBreadcrumbs: true
 title: Sustainable service principles
 ---
 
