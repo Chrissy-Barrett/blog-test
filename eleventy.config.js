@@ -10,7 +10,7 @@ module.exports = function(eleventyConfig) {
     },
     titleSuffix: 'Sustainable by design',
     icons: {mask: false, shortcut: false, touch: false},
-    homeKey: 'Principles'
+    homeKey: 'Principles',
     footer: {
         copyright: {
             text: '© Sustainable by design'
