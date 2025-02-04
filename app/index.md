@@ -2,6 +2,8 @@
 homepage: true
 layout: main
 title: Sustainable service principles
+eleventyNavigation:
+  key: Principles
 ---
 
 Version 1.0 updated 20 February 2025
@@ -50,7 +52,7 @@ The principles have been developed through a collaborative and open process in U
 * * *
 
 ## 8\. Develop and test for greener engineering
-[Read more](#)
+[Read more](principles/8-develop-and-test-for-efficent-engineering)
 
 * * *
 
